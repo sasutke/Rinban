@@ -2,3 +2,6 @@ C:/Github/Rinban/RinbanFX/Content/Char/ParagonMinions/Characters/Global/Material
 C:/Github/Rinban/RinbanFX/Content/Char/ParagonMinions/Characters/Global/MaterialLayers/Wood/T_TreeBark_N.uasset filter=lfs diff=lfs merge=lfs -text
 C:/Github/Rinban/RinbanFX/Content/Char/ParagonMinions/FX/Textures/Environment/T_RevaCliff_D.uasset filter=lfs diff=lfs merge=lfs -text
 C:/Github/Rinban/RinbanFX/Content/Char/ParagonMinions/Characters/Global/MaterialLayers/Wood/T_TreeBark_D.uasset filter=lfs diff=lfs merge=lfs -text
+C:/Github/Rinban/RinbanFX/Content/DesertMaterial/Texture/T_DesertMat_normal.uasset filter=lfs diff=lfs merge=lfs -text
+C:/Github/Rinban/RinbanFX/Content/DesertMaterial/Texture/T_DesertMat3_normal.uasset filter=lfs diff=lfs merge=lfs -text
+C:/Github/Rinban/RinbanFX/Content/DesertMaterial/Texture/T_DesertMat2_normal.uasset filter=lfs diff=lfs merge=lfs -text
